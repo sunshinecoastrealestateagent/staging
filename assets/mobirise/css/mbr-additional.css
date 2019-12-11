@@ -731,34 +731,117 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
-.cid-rKfbq5U0bI {
-  padding-top: 135px;
-  padding-bottom: 135px;
-  background-image: url("../../../assets/images/background1.jpg");
+.cid-rKioMdHj84 {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-color: #87b2cc;
 }
-.cid-rKfbq5U0bI .mbr-overlay {
-  background: linear-gradient(90deg, #d3cffb, #d7e8f6);
+.cid-rKioMdHj84 .text-content .btn-bgr {
+  z-index: 0;
 }
-.cid-rKfbq5U0bI .card-wrap {
-  background-color: #f36f21;
-  padding: 2rem;
-  margin: 0;
-  border-radius: .25rem;
-  -webkit-box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
+.cid-rKioMdHj84 .mbr-overlay {
+  background: #87b2cc;
+  background: linear-gradient(135deg, #87b2cc, #87b2cc);
 }
-@media (min-width: 992px) {
-  .cid-rKfbq5U0bI .card-wrap {
-    width: calc(100% + 10rem);
-    margin-left: -30rem;
+.cid-rKioMdHj84 .text-content {
+  padding: 2rem 0rem;
+  background-color: #ffffff;
+}
+.cid-rKioMdHj84 .mbr-section-btn {
+  margin-left: -0.8rem;
+}
+.cid-rKioMdHj84 .media-container-row {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+@media (max-width: 767px) {
+  .cid-rKioMdHj84 .mbr-text {
+    text-align: center;
   }
 }
-.cid-rKfbq5U0bI .img-wrap img {
-  width: 100%;
-  border-radius: .25rem;
+@media (max-width: 991px) {
+  .cid-rKioMdHj84 .text-content {
+    margin-bottom: 2rem;
+  }
 }
-.cid-rKfbq5U0bI .mbr-section-subtitle,
-.cid-rKfbq5U0bI .mbr-section-btn {
-  color: #767676;
+.cid-rKioMdHj84 .mbr-section-btn,
+.cid-rKioMdHj84 .mbr-section-title {
+  text-align: center;
+}
+.cid-rKiurHcJkA {
+  padding-top: 30px;
+  padding-bottom: 135px;
+  background-color: #87b2cc;
+}
+.cid-rKeAJW1vp0 {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/mel-schembri-mooloolaba-beach-2000x1104.jpg");
+}
+.cid-rKeAJW1vp0 .testimonials-container {
+  margin: 0 auto;
+}
+.cid-rKeAJW1vp0 .testimonials-container .testimonials-item {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  justify-content: center;
+  margin-top: 3rem;
+  -webkit-justify-content: center;
+}
+.cid-rKeAJW1vp0 .testimonials-container .testimonials-item .user {
+  background: #ffffff;
+}
+.cid-rKeAJW1vp0 .testimonials-container .testimonials-item .user.row {
+  margin: 0;
+}
+.cid-rKeAJW1vp0 .testimonials-container .testimonials-item .user .user_image {
+  width: 150px;
+  height: 150px;
+  overflow: hidden;
+  margin: 2rem auto 2rem auto;
+}
+.cid-rKeAJW1vp0 .testimonials-container .testimonials-item .user .user_image img {
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+}
+.cid-rKeAJW1vp0 .testimonials-container .testimonials-item .user .testimonials-item:hover {
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+.cid-rKeAJW1vp0 .testimonials-container .testimonials-item .user .testimonials-caption {
+  padding: 2rem;
+  padding: 2rem 2rem 2rem 0;
+}
+@media (max-width: 260px) {
+  .cid-rKeAJW1vp0 .user_image {
+    width: 100% !important;
+    height: auto !important;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rKeAJW1vp0 .testimonials-caption {
+    padding: 0 2rem 2rem 2rem !important;
+  }
+}
+.cid-rKeAJW1vp0 .user_text {
+  color: #000000;
+}
+.cid-rKeAJW1vp0 .user_name {
+  color: #000000;
+}
+.cid-rKeAJW1vp0 .user_desk {
+  color: #000000;
+}
+.cid-rKeAJW1vp0 H2 {
+  color: #000000;
+}
+.cid-rKeAJW1vp0 .mbr-section-subtitle {
+  color: #000000;
+}
+.cid-rKiAlDPvD0 {
+  padding-top: 0px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
 }
 .cid-rKeuOD7Jps {
   padding-top: 120px;
@@ -823,33 +906,40 @@ section.lazy-placeholder:after {
   padding-bottom: 30px;
   background-color: #ffffff;
 }
-.cid-rKezA3VQmE {
-  padding-top: 75px;
-  padding-bottom: 75px;
+.cid-rKitvdjsyC {
+  padding-top: 120px;
+  padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-rKezA3VQmE .testimonial-text {
+.cid-rKitvdjsyC .testimonial-text {
   font-style: italic;
-  color: #000000;
   font-weight: 300;
+  color: #000000;
   text-align: center;
 }
-.cid-rKezA3VQmE .mbr-author-name {
+.cid-rKitvdjsyC .mbr-author-name {
   font-weight: bold;
   color: #000000;
   text-align: center;
 }
-.cid-rKezA3VQmE .mbr-author-desc {
-  color: #000000;
-  text-align: center;
+.cid-rKitvdjsyC .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
 }
 @media (max-width: 991px) {
-  .cid-rKezA3VQmE .mbr-figure,
-  .cid-rKezA3VQmE img {
+  .cid-rKitvdjsyC .mbr-figure,
+  .cid-rKitvdjsyC img {
     max-height: 300px;
     width: auto;
     margin: auto;
   }
+  .cid-rKitvdjsyC .media-content {
+    padding-top: 1.5rem !important;
+  }
+}
+.cid-rKitvdjsyC .mbr-author-desc {
+  color: #000000;
+  text-align: center;
 }
 .cid-rKezBkGxsC {
   padding-top: 90px;
@@ -857,7 +947,7 @@ section.lazy-placeholder:after {
   background-color: #ffffff;
 }
 .cid-rKezLQx0pq {
-  padding-top: 75px;
+  padding-top: 120px;
   padding-bottom: 75px;
   background-color: #ffffff;
 }
@@ -892,45 +982,52 @@ section.lazy-placeholder:after {
   text-align: center;
 }
 .cid-rKezOXwhUU {
-  padding-top: 75px;
+  padding-top: 90px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
-.cid-rKeAgGh4Pf {
-  padding-top: 75px;
-  padding-bottom: 75px;
+.cid-rKiu29Py6W {
+  padding-top: 120px;
+  padding-bottom: 105px;
   background-color: #ffffff;
 }
-.cid-rKeAgGh4Pf .testimonial-text {
+.cid-rKiu29Py6W .testimonial-text {
   font-style: italic;
-  color: #000000;
   font-weight: 300;
+  color: #000000;
   text-align: center;
 }
-.cid-rKeAgGh4Pf .mbr-author-name {
+.cid-rKiu29Py6W .mbr-author-name {
   font-weight: bold;
   color: #000000;
   text-align: center;
 }
-.cid-rKeAgGh4Pf .mbr-author-desc {
-  color: #000000;
-  text-align: center;
+.cid-rKiu29Py6W .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
 }
 @media (max-width: 991px) {
-  .cid-rKeAgGh4Pf .mbr-figure,
-  .cid-rKeAgGh4Pf img {
+  .cid-rKiu29Py6W .mbr-figure,
+  .cid-rKiu29Py6W img {
     max-height: 300px;
     width: auto;
     margin: auto;
   }
+  .cid-rKiu29Py6W .media-content {
+    padding-top: 1.5rem !important;
+  }
+}
+.cid-rKiu29Py6W .mbr-author-desc {
+  color: #000000;
+  text-align: center;
 }
 .cid-rKeAkm3BTL {
-  padding-top: 75px;
+  padding-top: 120px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-rKeAslXhEu {
-  padding-top: 75px;
+  padding-top: 120px;
   padding-bottom: 75px;
   background-color: #ffffff;
 }
@@ -965,74 +1062,9 @@ section.lazy-placeholder:after {
   text-align: center;
 }
 .cid-rKeAwY3YWY {
-  padding-top: 75px;
+  padding-top: 90px;
   padding-bottom: 30px;
   background-color: #ffffff;
-}
-.cid-rKeAJW1vp0 {
-  padding-top: 60px;
-  padding-bottom: 120px;
-  background-image: url("../../../assets/images/mel-schembri-mooloolaba-beach-2000x1104.jpg");
-}
-.cid-rKeAJW1vp0 .testimonials-container {
-  margin: 0 auto;
-}
-.cid-rKeAJW1vp0 .testimonials-container .testimonials-item {
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
-  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
-  justify-content: center;
-  margin-top: 3rem;
-  -webkit-justify-content: center;
-}
-.cid-rKeAJW1vp0 .testimonials-container .testimonials-item .user {
-  background: #ffffff;
-}
-.cid-rKeAJW1vp0 .testimonials-container .testimonials-item .user.row {
-  margin: 0;
-}
-.cid-rKeAJW1vp0 .testimonials-container .testimonials-item .user .user_image {
-  width: 150px;
-  height: 150px;
-  overflow: hidden;
-  margin: 2rem auto 2rem auto;
-}
-.cid-rKeAJW1vp0 .testimonials-container .testimonials-item .user .user_image img {
-  width: 100%;
-  min-width: 100%;
-  min-height: 100%;
-}
-.cid-rKeAJW1vp0 .testimonials-container .testimonials-item .user .testimonials-item:hover {
-  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
-}
-.cid-rKeAJW1vp0 .testimonials-container .testimonials-item .user .testimonials-caption {
-  padding: 2rem;
-  padding: 2rem 2rem 2rem 0;
-}
-@media (max-width: 260px) {
-  .cid-rKeAJW1vp0 .user_image {
-    width: 100% !important;
-    height: auto !important;
-  }
-}
-@media (max-width: 767px) {
-  .cid-rKeAJW1vp0 .testimonials-caption {
-    padding: 0 2rem 2rem 2rem !important;
-  }
-}
-.cid-rKeAJW1vp0 .user_text {
-  color: #000000;
-}
-.cid-rKeAJW1vp0 .user_name {
-  color: #000000;
-}
-.cid-rKeAJW1vp0 .user_desk {
-  color: #000000;
-}
-.cid-rKeAJW1vp0 H2 {
-  color: #000000;
-}
-.cid-rKeAJW1vp0 .mbr-section-subtitle {
-  color: #000000;
 }
 .cid-rKeCrt2wKT .navbar {
   padding: .5rem 0;
@@ -1698,7 +1730,7 @@ section.lazy-placeholder:after {
 .cid-rKeJWQfDqt {
   padding-top: 120px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-color: #87b2cc;
 }
 .cid-rKeJWQfDqt H2 {
   color: #000000;
@@ -1706,7 +1738,7 @@ section.lazy-placeholder:after {
 .cid-rKeJZv0EdU {
   padding-top: 60px;
   padding-bottom: 135px;
-  background-color: #ffffff;
+  background-color: #87b2cc;
 }
 .cid-rKeJZv0EdU .mbr-slider .carousel-control {
   background: #1b1b1b;
@@ -1727,6 +1759,7 @@ section.lazy-placeholder:after {
 }
 .cid-rKeJZv0EdU .mbr-gallery-item {
   width: 100%;
+  box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.22);
 }
 .cid-rKeJZv0EdU .mbr-gallery-item > div::before {
   content: '';
@@ -1776,9 +1809,9 @@ section.lazy-placeholder:after {
   background: linear-gradient(to left, #87b2cc, #004b73) !important;
 }
 .cid-rKeMiYpgY6 {
-  padding-top: 0px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
+  padding-top: 105px;
+  padding-bottom: 90px;
+  background-color: #87b2cc;
 }
 .cid-rKeMvHWVcW {
   padding-top: 120px;
