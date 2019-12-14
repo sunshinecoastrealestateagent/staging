@@ -1,5 +1,5 @@
 /* source: https://github.com/avinoamr/bootstrap-carousel-swipe */
-/* changes from Mobirise team */
+/* changes from getoutcom.es team */
 +function ($) {
     'use strict';
 
@@ -21,7 +21,7 @@
         this.$active     =
         this.$items      =
         this.$next       =
-        this.$prev       = 
+        this.$prev       =
         this.dx          = null
 
         this.$element
@@ -164,7 +164,7 @@
             return false;
         }
 
-        var el = document.createElement('p'), 
+        var el = document.createElement('p'),
             has3d,
             transforms = {
                 'webkitTransform':'-webkit-transform',
