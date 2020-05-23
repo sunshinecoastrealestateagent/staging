@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'DINNextLTPro-Bold';
+   font-display: swap;
+   src: url('DINNextLTPro-Bold/font.woff');
+}
+@font-face {
+   font-family: 'DIN Next LT Pro Regular';
+   font-display: swap;
+   src: url('DIN Next LT Pro Regular/font.ttf');
+}
