@@ -1052,6 +1052,19 @@ section.lazy-placeholder:after {
 .cid-rZHRqyzKbz H1 {
   color: #ffffff;
 }
+.cid-s052Ace3DB {
+  background: #004b73;
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+.cid-s052Ace3DB .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-s052Ace3DB .video-block {
+    width: 100% !important;
+  }
+}
 #instagram-feed-block-c .inst__title {
   color: #ffffff;
 }
